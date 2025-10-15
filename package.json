@@ -9,7 +9,7 @@
     "babel-preset-expo": "^7.0.0"
   },
   "dependencies": {
-    "expo": "35.0.0",
+    "expo": "48.0.0",
     "react": "16.8.3",
     "react-native": "0.59.8",
     "@expo/vector-icons": "10.0.0",
